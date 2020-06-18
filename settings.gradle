@@ -1,0 +1,2 @@
+rootProject.name='PayTm Android Integration'
+include ':app'
